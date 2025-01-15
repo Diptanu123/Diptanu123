@@ -1,7 +1,9 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-  <img height="150" src="https://github.com/user-attachments/assets/d009e05a-4138-4675-9cbf-a0717b92f346" alt="Man with laptop" />
+  <img height="200" 
+  <img height="200" src="https://github.com/user-attachments/assets/d009e05a-4138-4675-9cbf-a0717b92f346" alt="Man with laptop" style="margin-left: 20px; margin-bottom: 20px;"/>
 </div>
+
+<br/>
   <!-- For local images in GitHub, we need to use relative path from the repository root -->
  
 <div align="center">
