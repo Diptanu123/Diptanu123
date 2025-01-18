@@ -113,6 +113,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diptanu123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diptanu123&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+👋" alt="Typing SVG" />
